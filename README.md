@@ -2,7 +2,7 @@
 
 ## 📚 Estudos
 
-Este repositório reúne anotações e conceitos fundamentais para os estudos voltados à certificação **CEH (Certified Ethical Hacker)**.
+Este repositório reúne anotações e conceitos fundamentais para os estudos voltados à certificação **CEH (Certified Ethical Hacker)** e Segurança da Informação.
 
 ---
 
